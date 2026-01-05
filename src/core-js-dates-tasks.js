@@ -216,7 +216,7 @@ function getQuarter(date) {
   if (month <= 5) {
     return 2;
   }
-  if (month <= 5) {
+  if (month <= 8) {
     return 3;
   }
   return 4;
